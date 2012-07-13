@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TerminalServerActivity!</string>
+    <string name="app_name">Bluetooth Terminal Server</string>
+    
+    <string name="label_yes">Yes</string>
+    <string name="label_no">No</string>
+    
+    <string name="msg_accepted_connection">Connection established.</string>
+    <string name="msg_bluetooth_not_enabled">Bluetooth must be enabled to use this application.</string>
+    <string name="msg_bluetooth_not_supported">Bluetooth is not supported on this device.</string>
+    <string name="msg_cannot_open_stream">Could not open a stream to the client.</string>
+    <string name="msg_socket_failed">Could not create server socket.</string>
+    <string name="msg_accept_failed">Server failed to accept the connection.</string>
+    <string name="msg_server_close_failed">Failed to close the server socket.</string>
+    <string name="msg_listening">Listening for incoming connections...</string>
+    <string name="msg_demo">Demo mode</string>
+    
+    <string name="title_accept_connection">Accept connection?</string>
+    
+    <color name="color_terminal_bg">#FF0000FF</color>
+    <color name="color_terminal_fg">#FFFFFFFF</color>
+</resources>
